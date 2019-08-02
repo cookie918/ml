@@ -5,8 +5,9 @@
 decision_tree_classifier.py
 
 朴素贝叶斯
-GaussianNB_naive_bayes.py
+naive_bayes_GaussianNB.py
 
 集成学习
-AdaBoostClassifier.py
-GBDT.py
+random_forest_classifier.py
+adaboost-classifier.py
+gbdt_classifier.py
