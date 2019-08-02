@@ -3,3 +3,6 @@
 
 决策树
 decision_tree_classifier
+
+朴素贝叶斯
+GaussianNB_naive_bayes
