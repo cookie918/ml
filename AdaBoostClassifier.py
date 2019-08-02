@@ -17,18 +17,18 @@ y = np.concatenate((y1, - y2 + 1))
 print(X, y)
 
 # 构建模型
-bdt = AdaBoostClassifier(
+adbt = AdaBoostClassifier(
     DecisionTreeClassifier(max_depth=2, min_samples_split=20, min_samples_leaf=5),
     algorithm="SAMME",
     n_estimators=200,
     learning_rate=0.8)
 
 # 训练模型
-bdt.fit(X, y)
+adbt.fit(X, y)
 
 # 模型准确率
 
-print(bdt.score(X, y))
+print(adbt.score(X, y))
 
 
 
