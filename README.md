@@ -11,3 +11,8 @@ naive_bayes_GaussianNB.py
 random_forest_classifier.py
 adaboost-classifier.py
 gbdt_classifier.py
+xgboost_classofier.py
+
+
+逻辑回归
+logistic_regression_classifier.py
