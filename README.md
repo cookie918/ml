@@ -16,3 +16,6 @@ xgboost_classofier.py
 
 逻辑回归
 logistic_regression_classifier.py
+
+线性回归
+linear-regression.py
