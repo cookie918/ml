@@ -2,10 +2,12 @@
 机器学习常见算法的使用
 
 决策树：
-decision_tree_classifier.py
+
+    decision_tree_classifier.py
 
 朴素贝叶斯：
-naive_bayes_GaussianNB.py
+    
+    naive_bayes_GaussianNB.py
 
 集成学习：
 
@@ -19,7 +21,9 @@ naive_bayes_GaussianNB.py
 
 
 逻辑回归：
-logistic_regression_classifier.py
+    
+    logistic_regression_classifier.py
 
 线性回归：
-linear-regression.py
+    
+    linear-regression.py
