@@ -1,0 +1,8 @@
+各种词向量的特点：
+
+One-hot：维度灾难 and 语义鸿沟
+矩阵分解（LSA）：利用全局语料特征，但SVD求解计算复杂度大
+基于NNLM/RNNLM的词向量：词向量为副产物，存在效率不高等问题
+word2vec、fastText：优化效率高，但是基于局部语料
+glove：基于全局预料，结合了LSA和word2vec的优点
+elmo、GPT、bert：动态特征
